@@ -4,11 +4,7 @@
 }
 
 .grid-flow-col{
-    grid-auto-flow: column;.container{
-        max-width: 1280px;
-        padding-inline: 32px;
-        margin-inline: 0 auto;
-    }
+        grid-auto-flow: column;
 
 }
 
@@ -17,7 +13,6 @@
 }
 
 .gap-16{    
-
     gap: 16px;
 }
 

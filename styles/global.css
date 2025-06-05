@@ -31,7 +31,6 @@
 
 body{
 
-
     font: var(--text);
     background-color: var(--bg-color);
     color: var(--text-color-primary);
@@ -63,6 +62,7 @@ img{
 
 main{
     margin-top: 40px;
+    gap: 80px;
 }
 
 
@@ -75,9 +75,7 @@ main{
     text-transform: uppercase;
     letter-spacing: 0.04em;
     color: var(--text-color-primary);
- 
-
-box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.25);
+    box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.25);
 
 
 }
